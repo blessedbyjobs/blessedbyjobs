@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <br />
+  <br />
+  <img height="50" alt="My Name is Alexey and I like Android Development" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
