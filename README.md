@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 </div>
 
+## ❓Who am I
+
+- 🤵 24 years old
+- 👨🏼‍💻 Android TeamLead at [@surfstudio](https://github.com/surfstudio)
+- 🎓 Computer Science bachelor + future Computer Science Magister
+
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
