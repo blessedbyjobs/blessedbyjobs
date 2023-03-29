@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -62,16 +62,13 @@ Sunday                   237 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████░░░░░░░░   66.73 % 
-Kotlin                   5 mins              ████████░░░░░░░░░░░░░░░░░   31.77 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rive-gauche-android-gitla8 mins              █████████████░░░░░░░░░░░░   53.67 % 
-rive-gauche-android-dev-s7 mins              ████████████░░░░░░░░░░░░░   46.33 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,5 +84,5 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2023 11:57:25 UTC
+ Last Updated on 29/03/2023 12:02:30 UTC
 <!--END_SECTION:waka-->
