@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
   <br />
   <br />
-  <img height="450" alt="My Name is Alexey and I like Android Development" src="images/maxwell_cat.gif" />
+  <img height="250" alt="My Name is Alexey and I like Android Development" src="images/maxwell_cat.gif" />
   <br />
   <br />
 
