@@ -87,15 +87,15 @@ No Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   20 repos            ████████████░░░░░░░░░░░░░   47.62 % 
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Kotlin                   21 repos            ████████████░░░░░░░░░░░░░   48.84 % 
+Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   32.56 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 
 
 
- Last Updated on 29/04/2024 18:38:04 UTC
+ Last Updated on 30/04/2024 18:38:49 UTC
 <!--END_SECTION:waka-->
