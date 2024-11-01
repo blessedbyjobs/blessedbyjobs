@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 > 📦 38.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -99,5 +97,5 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2024 18:45:25 UTC
+ Last Updated on 01/11/2024 18:45:14 UTC
 <!--END_SECTION:waka-->
