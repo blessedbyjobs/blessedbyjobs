@@ -36,15 +36,11 @@ Here are some ideas to get you started:
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-341.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,5 +95,5 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:43:59 UTC
+ Last Updated on 15/02/2025 18:40:48 UTC
 <!--END_SECTION:waka-->
