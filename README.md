@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-341.47%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -52,40 +50,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-🌆 Daytime                402 commits         ███████████░░░░░░░░░░░░░░   43.70 % 
-🌃 Evening                368 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Wednesday                180 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Thursday                 80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Friday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Saturday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Sunday                   185 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -99,5 +63,5 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 20:33:59 UTC
+ Last Updated on 28/05/2026 20:43:43 UTC
 <!--END_SECTION:waka-->
